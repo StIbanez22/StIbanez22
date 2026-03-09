@@ -32,7 +32,7 @@ A professional cleaning service platform built with Next.js 15, TypeScript, and 
 ### 📫 Connect with me:
 
 - **LinkedIn:** [linkedin.com/in/francisco-santibanez](https://www.linkedin.com/in/p-santibanez/)
-- **Email:** panchofrasse@gmail.com
+- **Email:** fsantibanez.dev@outlook.com
 - **Availability:** **Immediate (0 days notice period)**
 
 ---
